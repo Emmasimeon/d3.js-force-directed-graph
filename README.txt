@@ -1,4 +1,4 @@
-https://emmasimeon.github.io/d3.js-force-directed-graph/
+View Project: https://emmasimeon.github.io/d3.js-force-directed-graph/
 
 A Pen created at CodePen.io. You can find this one at https://codepen.io/Emmasimeon/pen/rpbRwJ.
 
